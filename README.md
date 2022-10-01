@@ -1,16 +1,14 @@
-### Hi there 👋
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillSenger&layout=compact&theme=dark"/>
+</div>
 
-<!--
-**WillSenger/WillSenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<div style="display: inline-block">
+  <img aling="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img aling="center" alt="djangot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg""/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<a href="https://www.linkedin.com/in/willian-senger-440356169/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
